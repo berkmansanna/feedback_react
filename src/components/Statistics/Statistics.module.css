@@ -1,0 +1,19 @@
+.good {
+  color: green;
+}
+
+.neutral {
+  color: blueviolet;
+}
+
+.bad {
+  color: red;
+}
+
+.total {
+  color: yellow;
+}
+
+.percentage {
+  color: brown;
+}

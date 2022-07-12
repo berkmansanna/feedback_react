@@ -1,0 +1,23 @@
+.feedbackList {
+  display: flex;
+}
+
+.feedbackItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnFeedback {
+  margin: 20px;
+  min-width: 100%;
+  color: yellow;
+  background-color: blue;
+  border-radius: 4px;
+  border: 1px solid transparent;
+}
+
+.btnFeedback:hover {
+  color: tomato;
+  background-color: black;
+}
